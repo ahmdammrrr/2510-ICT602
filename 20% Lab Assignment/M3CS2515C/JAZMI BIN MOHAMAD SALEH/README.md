@@ -14,3 +14,6 @@
 
 # Lectuer
 # lecturer@ict602.com | 123456
+
+# Video presentation Link
+# https://youtu.be/cMxvODu3OAQ
